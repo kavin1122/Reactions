@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Tektur:wght@400..900&display=swap');
+h1{
+  font-family: "Playfair Display", serif;
+  border-style:double;
+  height: 50px;
+  width: 500px;
+  border-radius: 5px;
+}
+button{
+  height: 33px;
+  text-align: center;
+  border-radius: 5px;
+  font-family: "Playfair Display", serif;
+  background-color: blue;
+  color: white;
+}
+body{
+  background-color: rgb(91, 244, 244);
+  
+}
+
